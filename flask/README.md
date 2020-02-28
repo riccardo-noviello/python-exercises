@@ -20,6 +20,8 @@ $ pip3 install flask
 
 # Run
 ```
-$ python3 -m app
+$ pip install -r requirements
+$ cd src
+$ python -m server
 
 ```
